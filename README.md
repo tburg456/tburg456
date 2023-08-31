@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @tburg456
-- 👀 I’m interested in SEO, link building, 
-- 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to collaborate on any ideas for database building
+- 👀 I’m interested in SEO, homebrew, Raspberry Pi
 - 📫 How to reach me - email tristanseth1234@gmail.com - twitter: @tburg___
 
 <!---
